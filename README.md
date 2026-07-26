@@ -7,7 +7,7 @@
 **Author:** Anthony Harrison
 **Author Email:** widgets@penrithbeacon.com
 **License:** MIT
-**Homepage:** https://openaiskillpackage.com/
+**Homepage:** https://penrithbeacon.com/
 **Tags:** scaffold, create, aiskill, package, generator, meta
 
 Scaffolds a new, originally-authored .aiskill package (Track A), or converts an existing skill from a foreign Agent Skills repo into one or more .aiskill packages with per-skill license gating (Track B).

@@ -47,7 +47,7 @@ permissions:
   network.fetch:
     hosts:
       - "github.com"
-homepage: https://openaiskillpackage.com/
+homepage: https://penrithbeacon.com/
 repository: https://github.com/PenrithBeacon/AISKILL-CREATE-AISKILL
 tags: [scaffold, create, aiskill, package, generator, meta]
 type: procedural

@@ -24,7 +24,7 @@ except ImportError:
 # ── Conventions (baked in per spec) ─────────────────────────────────────────
 
 REPO_PREFIX = "AISKILL"
-HOMEPAGE = "https://openaiskillpackage.com/"
+HOMEPAGE = "https://penrithbeacon.com/"
 MINIMUM_RUNTIME = "1.0.0"
 DEFAULT_VERSION = "1.0.0"
 SYSTEM_PROTOCOL_VERSION = "1.0.0"  # must match SYSTEM.md's own "Protocol Version" header
